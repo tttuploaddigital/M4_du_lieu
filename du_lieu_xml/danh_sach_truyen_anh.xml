@@ -1127,14 +1127,6 @@ This manga upload for Trí Newton 535 from Vietnam via request manga on website 
 *****</gioi_thieu>
 		<file_xml>https://raw.githubusercontent.com/tttuploaddigital/M_4_du_lieu/master/Completed/sailor_moon_anh.xml</file_xml>
 	</truyen>
-	<truyen ten="seitokai yakuindomo" tinh_trang_truyen="con" nhan_the_loai="Genre(s)" nhan_tinh_trang="Status" nhan_tac_gia="Author(s)" nhan_gioi_thieu="Description" the_loai="Comedy , Ecchi , Harem , Mature , Romance , School life , Shounen" nhan_kieu_truyen="Type" kieu_truyen="Manga - read from right to left">
-		<ten_truyen>seitokai yakuindomo</ten_truyen>
-		<tac_gia>Ujiie Tozen</tac_gia>
-		<tinh_trang>ongoing</tinh_trang>
-        <hinh_nho>http://3.c.mpcdn.net/8728/4/200.jpg</hinh_nho>
-		<gioi_thieu>I applied here since it's a close walk from my house. But it's really full of girls, huh? In this 4-koma series Tsuda Takatoshi is a new student in the recently gender-integrated high school. He's asked to join the student council as the vice president. Thus begins his days as the only normal boy among 3 female student council officers...</gioi_thieu>
-        <file_xml>https://raw.githubusercontent.com/tttuploaddigital/M_4_du_lieu/master/Ongoing/seitokai_yakuindomo_anh.xml</file_xml>
-	</truyen>
 	<truyen ten="schoolmate" tinh_trang_truyen="con" nhan_the_loai="Genre(s)" nhan_tinh_trang="Status" nhan_tac_gia="Author(s)" nhan_gioi_thieu="Description" the_loai="Adult , Comedy , Ecchi , Mature , Romance , School life , Seinen" nhan_kieu_truyen="Type" kieu_truyen="Manga - read from right to left">
 		<ten_truyen>schoolmate</ten_truyen>
 		<tac_gia>Azuma Yuki</tac_gia>
@@ -1150,6 +1142,14 @@ This manga upload for Trí Newton 535 from Vietnam via request manga on website 
 		<hinh_nho>http://3.c.mpcdn.net/8716/4/200.jpg</hinh_nho>
 		<gioi_thieu>When Hotaru moves into a new apartment alone, there’s a mysterious man standing nearby the apartment. Hotaru decides to confront the man, who turns out to live in the neighbouring apartment. The next day at school, Hotaru’s best friend Kanae tells Hotaru that a host tricked her out of her money. When Hotaru goes to confront the host, he happens to be none other than Hotaru’s neighbour, Masamune?!</gioi_thieu>
 		<file_xml>https://raw.githubusercontent.com/tttuploaddigital/M_4_du_lieu/master/Ongoing/seishun_x_kikanjuu_anh.xml</file_xml>
+	</truyen>
+	<truyen ten="seitokai yakuindomo" tinh_trang_truyen="con" nhan_the_loai="Genre(s)" nhan_tinh_trang="Status" nhan_tac_gia="Author(s)" nhan_gioi_thieu="Description" the_loai="Comedy , Ecchi , Harem , Mature , Romance , School life , Shounen" nhan_kieu_truyen="Type" kieu_truyen="Manga - read from right to left">
+		<ten_truyen>seitokai yakuindomo</ten_truyen>
+		<tac_gia>Ujiie Tozen</tac_gia>
+		<tinh_trang>ongoing</tinh_trang>
+        <hinh_nho>http://3.c.mpcdn.net/8728/4/200.jpg</hinh_nho>
+		<gioi_thieu>I applied here since it's a close walk from my house. But it's really full of girls, huh? In this 4-koma series Tsuda Takatoshi is a new student in the recently gender-integrated high school. He's asked to join the student council as the vice president. Thus begins his days as the only normal boy among 3 female student council officers...</gioi_thieu>
+        <file_xml>https://raw.githubusercontent.com/tttuploaddigital/M_4_du_lieu/master/Ongoing/seitokai_yakuindomo_anh.xml</file_xml>
 	</truyen>
 	<truyen ten="shaman king" tinh_trang_truyen="con" nhan_the_loai="Genre(s)" nhan_tinh_trang="Status" nhan_tac_gia="Author(s)" nhan_gioi_thieu="Description" the_loai="Action , Adventure , Comedy , Drama , Fantasy , Shounen , Supernatural" nhan_kieu_truyen="Type" kieu_truyen="Manga - read from right to left">
 		<ten_truyen>shaman king</ten_truyen>
