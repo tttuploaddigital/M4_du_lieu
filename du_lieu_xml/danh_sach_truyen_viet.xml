@@ -32,13 +32,21 @@
 		<gioi_thieu>Shirayuki bẩm sinh đã có mái tóc màu đỏ rất đẹp và hiếm. Cô bị Raji, một hoàng tử nổi tiếng ngu ngốc, bắt làm phi tần.Shirayuki không chấp nhận điều đó. Cô cắt đi mái tóc và trốn sang một nước láng giềng. Khi vượt qua khu rừng biên giới hai nước,cô đã gặp Zen. Nhưng Zen thật sự là ai? Và chuyện gì sẽ xảy ra với Shirayuki khi hoàng tử Raji phái sứ giả đến bắt cô về?</gioi_thieu>
 		<file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Manga_Ongoing/akagami_no_shirayukihime_viet.xml</file_xml>
 	</truyen>
-	<truyen ten="akame ga kiru" tinh_trang_truyen="het" nhan_the_loai="Thể loại" nhan_tinh_trang="Tình trạng" nhan_tac_gia="Tác giả" nhan_gioi_thieu="Giới thiệu" the_loai="Action , Drama , Fantasy , Mature , Psychological , Romance , Shounen. , Tragedy" nhan_kieu_truyen="Kiểu" kieu_truyen="Manga - đọc từ phải sang trái">
-		<ten_truyen>akame ga kiru</ten_truyen>
+	<truyen ten="akame ga kiru!  " tinh_trang_truyen="het" nhan_the_loai="Thể loại" nhan_tinh_trang="Tình trạng" nhan_tac_gia="Tác giả" nhan_gioi_thieu="Giới thiệu" the_loai="Action , Drama , Fantasy , Mature , Psychological , Romance , Shounen. , Tragedy" nhan_kieu_truyen="Kiểu" kieu_truyen="Manga - đọc từ phải sang trái">
+		<ten_truyen>akame ga kiru!  </ten_truyen>
 		<tac_gia>Takahiro , Tashiro Tetsuya</tac_gia>
 		<tinh_trang>Kết thúc</tinh_trang>
 		<hinh_nho>http://3.c.mpcdn.net/27307/7/200.jpg</hinh_nho>
 		<gioi_thieu>Tatsumi là một chiến binh nhỏ tuổi, vì muốn cứu ngôi làng của mình mà cậu cùng 2 người bạn đã dứt áo ra đi lên thủ đô, một nơi vốn đã tha hóa và trở thành địa ngục trần gian. Và xui xẻo thay, cậu vừa đến được thủ đô thì bị lừa mất sạch tiền bạc bởi một cô gái, thế nhưng cậu lại được một cô gái xinh đẹp khác giúp đỡ trong lúc gặp khó khăn. Vậy chuyện gì mà Tatsumi chưa biết về gia đình của cô gái xinh đẹp đã giúp đỡ cậu, khi mà gia đình của cô ấy bị một nhóm sát thủ viếng thăm (có bao gồm cả cô gái đã lừa tình tiền của cậu trước đó), và chuyện gì sẽ xảy ra nếu nhóm sát thủ này là người tốt, và đang cần thêm nhân lực đây...?</gioi_thieu>
 		<file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Manga_Completed/akame_ga_kiru_viet.xml</file_xml>
+	</truyen>
+	<truyen ten="akame ga kiru! zero" tinh_trang_truyen="con" nhan_the_loai="Thể loại" nhan_tinh_trang="Tình trạng" nhan_tac_gia="Tác giả" nhan_gioi_thieu="Giới thiệu" the_loai="Action , Adventure , Fantasy , Mature , Shounen. , Tragedy" nhan_kieu_truyen="Kiểu" kieu_truyen="Manga - đọc từ phải sang trái">
+		<ten_truyen>akame ga kiru! zero</ten_truyen>
+		<tac_gia>Takahiro , Toru Kei</tac_gia>
+		<tinh_trang>Tiếp tục</tinh_trang>
+        <hinh_nho>http://3.c.mpcdn.net/24502/2/200.jpg</hinh_nho>
+		<gioi_thieu>Câu truyện về bối cảnh 3 năm trước Akame ga KILL! Trong phần ZERO này, Akame vẫn đang hoạt động trong đội ám sát của Đế Quốc, với nhiệm vụ tiêu diệt tất cả những mầm mống phản loạn. Rồi vòng quay số phận sẽ ra sao? Đón xem nhé!</gioi_thieu>
+        <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Manga_Ongoing/akame_ga_kiru_zero_viet.xml</file_xml>
 	</truyen>
     <truyen ten="all you need is kill" tinh_trang_truyen="het" nhan_the_loai="Thể loại" nhan_tinh_trang="Tình trạng" nhan_tac_gia="Tác giả" nhan_gioi_thieu="Giới thiệu" the_loai="Action , Drama , Mature , Mecha , Mystery , Psychological , Romance , Sci-fi , Seinen , Tragedy" nhan_kieu_truyen="Kiểu" kieu_truyen="Manga - đọc từ phải sang trái">
         <ten_truyen>all you need is kill</ten_truyen>
@@ -307,6 +315,14 @@ Manga này được upload dành cho Alisha đến từ Vương quốc Anh thôn
 		<gioi_thieu>Đấu La Thế Giới, một đại lục rộng lớn, cư dân đông đúc. Chức nghiệp cao quý nhất tại Đấu La Đại Lục được gọi là Hồn Sư. Mỗi người sinh ra, đều có một vũ hồn bẩm sinh. Vũ hồn có thể là cái cày, cái cuốc, liêm đao (liềm gặt)… thuộc khối công cụ, một đóa hoa cúc, một cành mai… thuộc thực vật hệ đến các vũ hồn cường đại như Tuyết Ảnh Ma Hùng, Tật Phong Ma Lang… Để có thể trở thành hồn sư, ngoài vũ hồn cường đại, còn cần đến hồn lực để sử dụng vũ hồn đó, vũ hồn càng lớn, hồn lực càng cao, đại biểu cho thực lực mạnh mẽ tại Đấu La Đại Lục. Cứ 10 cấp hồn lực, vũ hồn có thể phụ gia thêm một cái hồn hoàn, có được từ việc liệp sát hồn thú, những quái thú mạnh mẽ, có tu vị hằng nghìn năm. Hành trình tu luyện, tìm hiểu bí ẩn cái chết của mẫu thân, bị mật tông sư của phụ thân của Đường Tam – nhân vật chính trong truyện Đấu La Đại Lục sẽ cho người đọc những trải nghiệm thú vị.</gioi_thieu>
 		<file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Manhua_Ongoing/doulou_dalu_viet.xml</file_xml>
 	</truyen>
+	<truyen ten="dr. stone" tinh_trang_truyen="con" nhan_the_loai="Thể loại" nhan_tinh_trang="Tình trạng" nhan_tac_gia="Tác giả" nhan_gioi_thieu="Giới thiệu" the_loai="Action , Comedy , Mystery , Psychological , Sci-fi , Shounen." nhan_kieu_truyen="Kiểu" kieu_truyen="Manga - đọc từ phải sang trái">
+		<ten_truyen>dr. stone</ten_truyen>
+		<tac_gia>Inagaki Riichiro , Boichi</tac_gia>
+		<tinh_trang>Tiếp tục</tinh_trang>
+        <hinh_nho>http://3.c.mpcdn.net/47716/2/200.jpg</hinh_nho>
+		<gioi_thieu>Sau 1 trận đại dịch không rõ nguồn gốc khiến loài người trên toàn thể địa cầu biến thành đá trải qua mấy ngàn năm sau 2 thanh niên chính của chúng ta là Senkuu và Taiju phá đá thoát ra và bắt đầu lập kế hoạch để cùng nhau tái thiết lập lại thế giới theo cách của họ...</gioi_thieu>
+        <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Manga_Ongoing/dr_stone_viet.xml</file_xml>
+	</truyen>
 	<truyen ten="dragon ball  " tinh_trang_truyen="het" nhan_the_loai="Thể loại" nhan_tinh_trang="Tình trạng" nhan_tac_gia="Tác giả" nhan_gioi_thieu="Giới thiệu" the_loai="Action , Adventure , Comedy , Fantasy , Martial arts , Shounen." nhan_kieu_truyen="Kiểu" kieu_truyen="Manga - đọc từ phải sang trái">
 		<ten_truyen>dragon ball  </ten_truyen>
 		<tac_gia>Toriyama Akira</tac_gia>
@@ -402,6 +418,14 @@ Manga này được upload dành cho Alisha đến từ Vương quốc Anh thôn
         <hinh_nho>http://3.c.mpcdn.net/2999/7/200.jpg</hinh_nho>
         <gioi_thieu>Một ngày trong thế kỷ 21, một cánh cổng mở ra ở giữa quận Ginza của Tokyo. Binh lính và các sinh vật kỳ lạ bước ra từ cánh cửa , và họ nhanh chóng biến Ginza thành địa ngục. Cánh cửa dường như kết nối Nhật Bản vào một thế giới khác, một thế giới với một đế chế chiến binh và nhiều sinh vật siêu nhiên. Lực lượng tự vệ Nhật Bản đã quyết định gửi một nhóm nhỏ, do một người lính cũng là một otaku, sang thế giới khác làm nhiệm vụ trinh sát. Họ đang có nghĩa vụ là tìm hiểu những gì họ có thể về đế chế (và kế hoạch của mình), trên thế giới, và người dân...</gioi_thieu>
         <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Manga_Ongoing/gate_viet.xml</file_xml>
+    </truyen>
+	<truyen ten="goblin slayer" tinh_trang_truyen="con" nhan_the_loai="Thể loại" nhan_tinh_trang="Tình trạng" nhan_tac_gia="Tác giả" nhan_gioi_thieu="Giới thiệu" the_loai="Action , Ecchi , Fantasy , Mature , Seinen" nhan_kieu_truyen="Kiểu" kieu_truyen="Manga - đọc từ phải sang trái">
+		<ten_truyen>goblin slayer</ten_truyen>
+        <tac_gia>Kurose Kousuke</tac_gia>
+        <tinh_trang>Tiếp tục</tinh_trang>
+        <hinh_nho>http://3.c.mpcdn.net/41855/1/200.jpg</hinh_nho>
+        <gioi_thieu>Tất cả thể loại bạn thích về Dark Fantasy đều có trong bộ truyện này...</gioi_thieu>
+        <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Manga_Ongoing/goblin_slayer_viet.xml</file_xml>
     </truyen>
 	<truyen ten="gosu" tinh_trang_truyen="con" nhan_the_loai="Thể loại" nhan_tinh_trang="Tình trạng" nhan_tac_gia="Tác giả" nhan_gioi_thieu="Giới thiệu" the_loai="Action , Adventure , Comedy , Historical , Martial arts , Shounen. , Webtoons" nhan_kieu_truyen="Kiểu" kieu_truyen="Manhwa - đọc từ trái sang phải">
 		<ten_truyen>gosu</ten_truyen>
